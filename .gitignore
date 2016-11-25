@@ -1,4 +1,8 @@
-# Logs
+#Custom
+.DS_Store
+*.swp
+
+#Logs
 logs
 *.log
 npm-debug.log*
